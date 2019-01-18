@@ -4,7 +4,7 @@ Good morning! <br>
 <br>
 Subject: use case on telecom industry using logistic regression <br>
 <br>
-Respected sir, <br>
+Respected everyone, <br>
 This is a use case on telecom industry where our task is to understand the data, build a logistic regression model using 
 train data and then test the model over test data. After, doing basic data analysis, we drew some inferences. Then we did 
 data visualization by plotting graphs between features and their respective frequencies. Then we built a logistic regression 
